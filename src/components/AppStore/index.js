@@ -295,7 +295,7 @@ const appsList = [
   },
 ]
 
-// Write your code here
+
 class AppStore extends Component {
   state = {
     searchInput: '',
